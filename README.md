@@ -17,16 +17,6 @@ This is my first project in the world of Machine Learning, and I'm excited to st
 ## Project Overview:
 This project is a simple linear regression model trained to predict the price of a pizza based on its diameter. The model is built using a sample dataset in CSV format, which is used to train and test the linear regression algorithm. The project also includes a web interface using Streamlit, where users can input the diameter of a pizza and receive an estimated price based on the trained model.
 
-
-## How to Run:
-
-1. Clone this repository or download the project files.
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Run the Streamlit app:
-   streamlit run app.py
-
 ## Dataset:
 The dataset is a simple CSV file (pizzas.csv) with two columns:
 
